@@ -5,12 +5,13 @@
 **Chosen Technique:** Cubism-inspired grid arrangement
 Inspired by cubism’s or collage's exploration of fragmented perspectives, I aim to cut a painting into a grid and rearrange the sections to create an abstract yet cohesive composition. This will be achieved by replacing some grid parts with text while adding monochrome and dynamic lighting effects. This technique is chosen as the design blends the past with the future. Furthermore, this technique not only embraces the cubist style but also allows for creative flexibility in engaging the viewer. The grid approach encourages a balance between structure and abstraction, meeting the assignment’s requirement for a visually striking piece.
 
-_Inspirational Images_
+**_Inspirational Images_**
 1. 'Factory, Horta de Ebbo', 1909 (oil on canvas) by Pablo Picasso
 ![An image of Factor, Horta de Ebbo](assets/picasso_cubism.jpg)
 
 2. Modern Mona Lisa Collage, n.d
 ![A collage of the modern Mona Lisa](assets/monalisa.jpg)
+
 
 3. Ralph Ueltzhoeffer’s Angelina Jolie Portrait, 2008
 ![Typographic art of Angelina Jolie](assets/typeart.png)
@@ -19,6 +20,7 @@ _Inspirational Images_
 **Chosen Technique:** CSS Grid and JavaScript for Image/Content Replacement To implement this cubism-inspired grid technique, I’ll use CSS Grid to create a flexible layout for rearranging images. JavaScript will dynamically swap out images with text or adjust color schemes (monochrome) and lighting effects. Specifically using functions like get() to resize. p5 js library will be used for the ASICII art effect. This approach will give me control over each grid section, allowing real-time interactions and unique modifications.
 
 **_Links to example code_**
+
 [Cubist art](https://github.com/williamngan/kubist)
 
 [Typographic art](https://editor.p5js.org/pattvira/sketches/aT8iNvJV1)
