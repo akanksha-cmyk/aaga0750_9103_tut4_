@@ -18,11 +18,15 @@ _Inspirational Images_
 ### Part 2: Coding Technique Exploration
 **Chosen Technique:** CSS Grid and JavaScript for Image/Content Replacement To implement this cubism-inspired grid technique, I’ll use CSS Grid to create a flexible layout for rearranging images. JavaScript will dynamically swap out images with text or adjust color schemes (monochrome) and lighting effects. Specifically using functions like get() to resize. p5 js library will be used for the ASICII art effect. This approach will give me control over each grid section, allowing real-time interactions and unique modifications.
 
-_Links to example code_
--[Cubist art](https://github.com/williamngan/kubist)
-    -[Typographic art](https://editor.p5js.org/pattvira/sketches/aT8iNvJV1)
+**_Links to example code_**
+[Cubist art](https://github.com/williamngan/kubist)
+
+[Typographic art](https://editor.p5js.org/pattvira/sketches/aT8iNvJV1)
+
 [Collage art](https://github.com/jnfsmile/p5-collage/blob/master/sketch.js)
+
 [Coloured shapes](https://p5js.org/examples/shapes-and-color-color/)
+
 [Collage Demonstration](https://www.youtube.com/watch?v=-YS5t1R-GO8)
 
 ### References
