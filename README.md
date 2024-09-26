@@ -2,8 +2,9 @@
 
 ## Quiz 8
 ### Part 1: Inspiration for Imaging Technique
-**Chosen Technique:** Cubism-inspired grid arrangement
-Inspired by cubism’s or collage's exploration of fragmented perspectives, I aim to cut a painting into a grid and rearrange the sections to create an abstract yet cohesive composition. This will be achieved by replacing some grid parts with text while adding monochrome and dynamic lighting effects. This technique is chosen as the design blends the past with the future. Furthermore, this technique not only embraces the cubist style but also allows for creative flexibility in engaging the viewer. The grid approach encourages a balance between structure and abstraction, meeting the assignment’s requirement for a visually striking piece.
+**Chosen Technique:** Cubist arrangment & typographic art
+Inspired by cubism’s or collage's exploration of fragmented perspectives, I aim to cut a painting into a grid and rearrange the sections to create an abstract yet cohesive composition. This will be achieved by replacing some grid parts with text while adding typography and dynamic lighting effects. This technique is chosen as the design blends the past with the contemporary. Furthermore, this technique not only embraces the cubist style but also allows for creative flexibility in engaging the viewer (Tate, n.d). The grid approach encourages a balance between structure and abstraction, meeting the assignment’s requirement for a visually striking piece.
+
 
 **_Inspirational Images_**
 1. 'Factory, Horta de Ebbo', 1909 (oil on canvas) by Pablo Picasso
@@ -21,13 +22,13 @@ Inspired by cubism’s or collage's exploration of fragmented perspectives, I ai
 
 **_Links to example code_**
 
-[Cubist art](https://github.com/williamngan/kubist)
+[Cubist Art](https://github.com/williamngan/kubist)
 
-[Typographic art](https://editor.p5js.org/pattvira/sketches/aT8iNvJV1)
+[Typographic Art](https://editor.p5js.org/pattvira/sketches/aT8iNvJV1)
 
-[Collage art](https://github.com/jnfsmile/p5-collage/blob/master/sketch.js)
+[Collage Art](https://github.com/jnfsmile/p5-collage/blob/master/sketch.js)
 
-[Coloured shapes](https://p5js.org/examples/shapes-and-color-color/)
+[Coloured Shapes](https://p5js.org/examples/shapes-and-color-color/)
 
 [Collage Demonstration](https://www.youtube.com/watch?v=-YS5t1R-GO8)
 
